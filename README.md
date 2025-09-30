@@ -54,6 +54,3 @@ Dit project is bedoeld voor:
 
 ## 🤝 Samenwerking en beheer
 Het project wordt beheerd door het DevOps-team in samenwerking met functioneel beheer en security. Feedback en bijdragen van gebruikers en partners worden actief gestimuleerd om het project actueel en relevant te houden.
-```
-
-Wil je dat ik dit opsla als een `.md` bestand en aan je teruggeef?
